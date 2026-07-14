@@ -13,7 +13,7 @@ class Solution {
 public:
 
     int maxDepth(TreeNode* root) {
-       if(!root){
+       if(root == NULL){
         return 0;
        }
        int maxLeft= maxDepth(root->left);// it will give 0, 1
@@ -21,3 +21,4 @@ public:
        return max(maxLeft, maxRight)+1;// so 2 +1= 3
     }
 };
+
