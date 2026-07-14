@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1920-build-array-from-permutation) |
 ## Simulation
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
