@@ -50,4 +50,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
+## Array
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1920-build-array-from-permutation) |
+## Simulation
+|  |
+| ------- |
+| [1920-build-array-from-permutation](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1920-build-array-from-permutation) |
 <!---LeetCode Topics End-->
