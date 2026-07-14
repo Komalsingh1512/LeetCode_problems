@@ -1,0 +1,36 @@
+/**
+ * Definition for a binary tree node.
+ * struct TreeNode {
+ *     int val;
+ *     TreeNode *left;
+ *     TreeNode *right;
+ *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ * };
+ */
+class Solution {
+public:
+    bool mirror(TreeNode* left, TreeNode* right){
+
+        if(left == NULL && right == NULL)
+            return true;
+
+        if(left == NULL || right == NULL)
+            return false;
+
+        if(left->val != right->val)
+            return false;
+
+        return mirror(left->left, right->right) &&
+               mirror(left->right, right->left);// mirror will check the intered parameters are same or not 
+    }
+// this above part is done same as checking same tree like question no 100
+    bool isSymmetric(TreeNode* root) {
+
+        if(root == NULL)
+            return true;
+
+        return mirror(root->left, root->right);
+    }
+};
