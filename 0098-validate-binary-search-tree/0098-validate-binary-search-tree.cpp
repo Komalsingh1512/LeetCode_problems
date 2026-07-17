@@ -11,17 +11,13 @@
  */
 class Solution {
 public:
-// this is the complex one so we will do it using inorder 
-    TreeNode* prev= NULL;
-    bool isValidBST(TreeNode* root) {
+    bool solve(TreeNode* root, long long low, long long high) {
         if(root == NULL) return true;
-        if(!isValidBST(root->left)){
-            return false;
-        }
-        if(prev !=NULL && prev->val >=root->val)
-            return false;
-            prev= root;
-            return isValidBST(root->right);
+        if(root->val >=high || root->val <=low) return false;
+        return solve(root->left, low, root->val) && solve(root->right, root->val, high) ;
     }
+    bool isValidBST(TreeNode* root){
+        return solve(root, LLONG_MIN, LLONG_MAX);
+    } 
 };
 
