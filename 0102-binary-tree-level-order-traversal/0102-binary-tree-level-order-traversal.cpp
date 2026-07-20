@@ -11,32 +11,23 @@
  */
 class Solution {
 public:
-// done using BFS
-    vector<vector<int>> levelOrder(TreeNode* root) {
-        vector<vector<int>> ans;
-        if (root == nullptr) return ans;
-        // we are using queue for storing every node value 
-        queue<TreeNode*> q;
-        q.push(root);// we are just stpring the first value to the queue
+    vector<vector<int>> ans;
 
-        while (!q.empty()) {
-            int size = q.size();// it size depend on the level it is now 
-            vector<int> temp;
+    void solve(TreeNode* root, int level) {
+        if (root == NULL) return;
 
-            for (int i = 0; i < size; i++) {
-                TreeNode* node = q.front();// first element of the queue will come here 
-                q.pop();
-                temp.push_back(node->val);
-
-                if (node->left) q.push(node->left);
-                if (node->right) q.push(node->right);
-            }
-
-            ans.push_back(temp);
+        if (level == ans.size()) {
+            ans.push_back({});
         }
 
+        ans[level].push_back(root->val);
+
+        solve(root->left, level + 1);
+        solve(root->right, level + 1);
+    }
+
+    vector<vector<int>> levelOrder(TreeNode* root) {
+        solve(root, 0);
         return ans;
     }
 };
-
-// pehle queue me root ko add kar denge , uske baad usko temp me add kar denge or pop karenge or check karnge ki kya uske left right me kuch hai aagar hai to usko queue me add kar denge, phi same process chalega queue me jo element hai wo temp me add hoga phir wo queue se pop hoga or left right me koi element hai ya nhi usko check karega 
