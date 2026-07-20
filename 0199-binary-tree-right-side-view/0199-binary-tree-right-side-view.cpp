@@ -9,23 +9,39 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
-    vector<int> ans;
+// done using bfs
+    vector<int> rightSideView(TreeNode* root) {
+        vector<int> ans;
 
-    void solve(TreeNode* root, int level) {
-        if (root == NULL) return;
+        if (root == NULL) return ans;
 
-        if (level == ans.size()) {
-            ans.push_back(root->val);// it will check is the level or the size is equal, if yes then it will add the value to the ans
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+
+            int size = q.size();
+
+            for (int i = 0; i < size; i++) {
+
+                TreeNode* node = q.front();
+                q.pop();
+
+                // First node because we push Right first
+                if (i == 0)
+                    ans.push_back(node->val);
+
+                if (node->right)
+                    q.push(node->right);
+
+                if (node->left)
+                    q.push(node->left);
+            }
         }
 
-        solve(root->right, level + 1);// then it will add right value first 
-        solve(root->left, level + 1);// here the size will be 2 but level will be 1 because of the root value and the right value, so left will will not be added to the 
-    }
-
-    vector<int> rightSideView(TreeNode* root)  {
-        solve(root, 0);// we return what we have in the parameters thats why here we have return the root and the level value.
         return ans;
     }
 };
