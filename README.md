@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0841-keys-and-rooms](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0841-keys-and-rooms](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1971-find-if-path-exists-in-graph) |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0704-binary-search) |
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -159,10 +162,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1971-find-if-path-exists-in-graph) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
