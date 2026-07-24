@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0841-keys-and-rooms) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0841-keys-and-rooms) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0207-course-schedule) |
 | [0841-keys-and-rooms](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1971-find-if-path-exists-in-graph) |
 ## Matrix
@@ -178,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
