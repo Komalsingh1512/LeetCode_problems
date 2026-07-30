@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
@@ -203,4 +204,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
