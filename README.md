@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0704-binary-search) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Greedy
 |  |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
