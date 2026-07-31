@@ -14,7 +14,7 @@ public:
        
         while(left < right){
            
-            if(!isValid(s[left])){
+            if(!isValid(s[left])){//it check if th element is space or other than letters
                 left++;
             }
             else if(!isValid(s[right])){
