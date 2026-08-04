@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1920-build-array-from-permutation) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
 |  |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0242-valid-anagram) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
 |  |
