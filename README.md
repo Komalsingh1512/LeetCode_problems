@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0724-find-pivot-index) |
