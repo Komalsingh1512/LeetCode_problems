@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0695-max-area-of-island](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0695-max-area-of-island) |
 | [0704-binary-search](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0724-find-pivot-index) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0238-product-of-array-except-self) |
+| [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0724-find-pivot-index) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0066-plus-one](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0069-sqrtx) |
+| [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 ## String
 |  |
 | ------- |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0242-valid-anagram) |
+| [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Union-Find
@@ -241,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0169-majority-element) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
