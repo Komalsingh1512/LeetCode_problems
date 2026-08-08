@@ -139,12 +139,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0977-squares-of-a-sorted-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0392-is-subsequence) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Divide and Conquer
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0392-is-subsequence) |
 ## Sorting
 |  |
 | ------- |
