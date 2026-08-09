@@ -167,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0060-permutation-sequence](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0060-permutation-sequence) |
 | [0066-plus-one](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
@@ -271,4 +272,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
