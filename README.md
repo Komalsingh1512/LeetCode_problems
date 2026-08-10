@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0169-majority-element) |
 ## Binary Search
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Shortest Path
 |  |
@@ -282,4 +284,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
+## Linked List
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
