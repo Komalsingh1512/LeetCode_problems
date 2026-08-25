@@ -21,3 +21,5 @@ public:
        return ans;
     }
 };
+//ham pichle se chal rahe qki hamen next element pucha hai, starting me hamra stack empti hai to ham mp me 2 is falu rakhnge or 2 ko stack me daal denge aab stack khali nhi hai to ham num2 ke dusre elemnt jo is 4 hai uske sat ke top element ke compare karenge aahr st ka element bara nhi hau to ham usko pop out kar denge or aab first se st empty ho gaya to map me 4 ke next me -1 rakh denge, or 4 ko stack me add kar dnge, aab num2 ka next element 3 ko 4 se compar karenge karenge 4 bara hai to ham mp me 3 ke next element 4 ko map me rakh denge, or 3 ko stack me 
+
