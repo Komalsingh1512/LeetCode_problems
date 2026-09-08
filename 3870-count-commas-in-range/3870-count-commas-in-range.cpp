@@ -1,6 +1,11 @@
 class Solution {
 public:
     int countCommas(int n) {
-        return max(n-999,0);// it is giving me the highest value eg: 1004-999 = 4 so the comma will be 4 
+        if(n<1000) return 0;
+        int count =0;
+        for(int i =1000; i<=n; i++){
+            count++;
+        }
+        return count;
     }
 };
