@@ -14,6 +14,7 @@ public:
         ListNode *prev= NULL;
         ListNode *curr= head;
         while(curr !=NULL){
+            //it will follow in the bellow sequence first temp will store curr next which is 2 then currnext will store prev which is null then prev will store curr value which is 1 then curr will store waht temp is storing which is 2
             ListNode *temp = curr->next;// after stroring curr then it sill store null
             curr->next= prev;// it will firstly store null 
             prev= curr; // it will store curr value 
