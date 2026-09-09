@@ -11,7 +11,7 @@ public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {
         ListNode *listA = headA;
         ListNode *listB = headB;
-        while(listA!= listB){
+        while(listA!= listB){// we have to go next till listA !=listB, when while loop will be false we will return listA 
             listA= (listA!= nullptr)? listA->next : headA;
             listB= (listB!= nullptr)? listB->next : headB;
         }
