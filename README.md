@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1920-build-array-from-permutation) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
 | ------- |
@@ -243,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Union-Find
 |  |
 | ------- |
@@ -305,11 +307,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Recursion
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sliding Window
 |  |
 | ------- |
