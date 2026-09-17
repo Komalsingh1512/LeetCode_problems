@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1920-build-array-from-permutation) |
+| [2527-find-xor-beauty-of-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3483-unique-3-digit-even-numbers) |
 ## Simulation
 |  |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0069-sqrtx) |
 | [0523-continuous-subarray-sum](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0523-continuous-subarray-sum) |
 | [0836-rectangle-overlap](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0836-rectangle-overlap) |
+| [2527-find-xor-beauty-of-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/2527-find-xor-beauty-of-array) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3870-count-commas-in-range](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/3871-count-commas-in-range-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0136-single-number) |
+| [2527-find-xor-beauty-of-array](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/2527-find-xor-beauty-of-array) |
 ## Trie
 |  |
 | ------- |
