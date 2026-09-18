@@ -381,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0595-big-countries) |
 | [0619-biggest-single-number](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/0620-not-boring-movies) |
+| [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1148-article-views-i](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1251-average-selling-price) |
 | [1667-fix-names-in-a-table](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1667-fix-names-in-a-table) |
