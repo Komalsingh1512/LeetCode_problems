@@ -9,3 +9,9 @@ FROM
     Transactions
 GROUP BY 
     month, country;
+
+-- LEFT() is a string function that extracts a specified number of characters from the left side of a string.
+-- Syntax:
+-- LEFT(string, number_of_characters)
+-- Example:
+-- SELECT LEFT('2026-11-25', 7);
