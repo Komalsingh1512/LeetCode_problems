@@ -391,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1075-project-employees-i](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1075-project-employees-i) |
 | [1148-article-views-i](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1148-article-views-i) |
 | [1251-average-selling-price](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1251-average-selling-price) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1667-fix-names-in-a-table) |
 | [1683-invalid-tweets](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Komalsingh1512/LeetCode_problems/tree/master/1757-recyclable-and-low-fat-products) |
