@@ -1,14 +1,12 @@
 # Write your MySQL query statement below
--- We need to compute the average selling price for each product.
--- Prices are valid only within a specific date range, so for each sale, we must pick the correct price based on the date.
--- If a product has no sales, its average price should be 0.
-
-##hard one i didn't understand it 
-
-SELECT p.product_id,
-       IFNULL(ROUND(SUM(p.price * u.units) / SUM(u.units), 2), 0) AS average_price
+SELECT
+    p.product_id,
+    ROUND(COALESCE(SUM(p.price * u.units) / SUM(u.units),0),2) AS average_price
+    -- coalesce is used to return first notnull value, as question is asked it return 0 when no units were sold
 FROM Prices p
 LEFT JOIN UnitsSold u
-  ON p.product_id = u.product_id
- AND u.purchase_date BETWEEN p.start_date AND p.end_date
+    ON p.product_id = u.product_id
+    AND u.purchase_date BETWEEN p.start_date AND p.end_date
+-- First condition: Is it the same product?
+-- Second condition: Was that price valid on the purchase date?
 GROUP BY p.product_id;
